@@ -1,0 +1,6 @@
+project/
+StudyMake/
+TxtIntr/
+Debug/
+*.o/
+server_static
